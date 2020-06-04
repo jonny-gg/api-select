@@ -1,0 +1,12 @@
+{
+  "name": "zeus-select",
+  "type": "igroot-business-component",
+  "builder": "igroot-business-component-dev-builder",
+  "options": {
+    "domain": "localhost",
+    "port": 2333
+  },
+  "esModule":[
+    "igroot-fetch"
+  ]
+}
