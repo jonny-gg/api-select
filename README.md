@@ -29,6 +29,6 @@ yarn add zeus-select
 | type              | "domain"\|"machine"\|"cache" | "domain"                                  | 查询类型       | 是       |
 | placeholder       | String                       | -                                         | 提示说明文字   | 否       |
 | tag               | "id"\|"name"                 | "name"                                    | 查询类型       | 是       |
-| api               | String                       | https://olympus-api.bs58i.baishancdnx.com | 后端查询域名   | 是       |
+| api               | String                       | https://api.xxx.com | 后端查询域名   | 是       |
 
 
