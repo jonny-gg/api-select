@@ -26,9 +26,10 @@ yarn add zeus-select
 | mode              | String                       | -                                         | 多选\| 单选    | 否       |
 | keyword           | "id" \| "name"               | "name"                                    | 显示id或者name | 否       |
 | width             | String\| number              | 100%                                      | 宽度默认“100%” | 否       |
-| type              | "domain"\|"machine"\|"cache" | "domain"                                  | 查询类型       | 是       |
+| type              | "domain"\|"machine"\|"cache"\|"user"\|"cover"\|"node" | "domain"                                  | 查询类型       | 是       |
 | placeholder       | String                       | -                                         | 提示说明文字   | 否       |
 | tag               | "id"\|"name"                 | "name"                                    | 查询类型       | 是       |
 | api               | String                       | https://api.xxx.com | 后端查询域名   | 是       |
+
 
 
