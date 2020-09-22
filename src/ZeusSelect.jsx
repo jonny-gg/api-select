@@ -1,5 +1,5 @@
 import React from 'react'
-import { Select, Spin, Checkbox } from 'igroot'
+import { Select, Spin, Checkbox } from 'antd'
 import Fetch from 'igroot-fetch'
 import debounce from 'lodash/debounce';
 import PropTypes from 'prop-types';

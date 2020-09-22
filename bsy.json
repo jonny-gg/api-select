@@ -6,7 +6,8 @@
     "domain": "localhost",
     "port": 2333
   },
-  "esModule":[
+  "useAntd": true,
+  "esModule": [
     "igroot-fetch"
   ]
 }
